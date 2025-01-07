@@ -1798,3 +1798,6 @@ body.is-preload #footer {
   align-items: center;
   text-align: center;
 }
+.web__link {
+  color: blue;
+}
